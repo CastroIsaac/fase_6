@@ -1,0 +1,49 @@
+codigo_modulo,nome_modulo,tipo_modulo,latencia_estimada_ms,latencia_observada_ms,tensao_V,corrente_A,potencia_W,status,prioridade,codigo_sensor,mensagem_alerta,data_registro
+HAB-01,Sala de Controle Residencial,Habitação,39,40.99,12.0,1.27,15.24,Normal,1,0xA100,Comunicação dentro do limite,2026-09-01 08:00
+AGR-01,Estufa Hidropônica,Agricultura,59,62.03,24.0,1.53,36.72,Normal,2,0xA111,Comunicação dentro do limite,2026-09-01 11:00
+COM-01,Antena Norte,Comunicação,65,61.52,12.0,1.72,20.64,Normal,3,0xA122,Comunicação dentro do limite,2026-09-01 14:00
+LAB-01,Laboratório de Análises,Laboratório,52,51.22,23.8,1.02,24.28,Normal,2,0xA133,Comunicação dentro do limite,2026-09-01 17:00
+MED-01,Posto Médico,Suporte médico,31,37.42,12.0,0.96,11.52,Normal,1,0xA144,Comunicação dentro do limite,2026-09-01 20:00
+ARM-01,Banco de Dados,Armazenamento,63,72.92,24.0,1.88,45.12,Atenção,2,0xA155,Latência acima do previsto,2026-09-01 23:00
+COM-02,Antena Sul,Comunicação,75,67.72,24.2,2.29,55.42,Normal,4,0xA166,Comunicação dentro do limite,2026-09-02 02:00
+AGR-02,Estufa Experimental,Agricultura,53,52.17,12.0,1.42,17.04,Normal,2,0xA177,Comunicação dentro do limite,2026-09-02 05:00
+HAB-01,Sala de Controle Residencial,Habitação,47,51.36,12.2,1.22,14.88,Normal,2,0xA188,Comunicação dentro do limite,2026-09-02 08:00
+AGR-01,Estufa Hidropônica,Agricultura,55,58.22,24.0,1.61,38.64,Normal,3,0xA199,Comunicação dentro do limite,2026-09-02 11:00
+COM-01,Antena Norte,Comunicação,70,93.16,12.2,1.79,21.84,Alerta,4,0xA1AA,Latência acima do previsto,2026-09-02 14:00
+LAB-01,Laboratório de Análises,Laboratório,48,52.0,24.0,1.13,27.12,Normal,1,0xA1BB,Comunicação dentro do limite,2026-09-02 17:00
+MED-01,Posto Médico,Suporte médico,34,40.25,12.0,0.89,10.68,Normal,1,0xA1CC,Comunicação dentro do limite,2026-09-02 20:00
+ARM-01,Banco de Dados,Armazenamento,61,60.64,24.2,2.1,50.82,Normal,3,0xA1DD,Comunicação dentro do limite,2026-09-02 23:00
+COM-02,Antena Sul,Comunicação,73,83.49,24.0,2.29,54.96,Atenção,3,0xA1EE,Latência acima do previsto,2026-09-03 02:00
+AGR-02,Estufa Experimental,Agricultura,56,61.17,12.2,1.31,15.98,Normal,2,0xA1FF,Comunicação dentro do limite,2026-09-03 05:00
+HAB-01,Sala de Controle Residencial,Habitação,45,42.91,12.0,1.13,13.56,Normal,1,0xA210,Comunicação dentro do limite,2026-09-03 08:00
+AGR-01,Estufa Hidropônica,Agricultura,60,60.43,23.8,1.62,38.56,Normal,2,0xA221,Comunicação dentro do limite,2026-09-03 11:00
+COM-01,Antena Norte,Comunicação,67,71.24,12.0,1.8,21.6,Normal,3,0xA232,Comunicação dentro do limite,2026-09-03 14:00
+LAB-01,Laboratório de Análises,Laboratório,46,47.36,23.8,1.13,26.89,Normal,1,0xA243,Comunicação dentro do limite,2026-09-03 17:00
+MED-01,Posto Médico,Suporte médico,40,41.19,11.8,0.91,10.74,Normal,1,0xA254,Comunicação dentro do limite,2026-09-03 20:00
+ARM-01,Banco de Dados,Armazenamento,59,60.13,24.2,2.08,50.34,Normal,2,0xA265,Comunicação dentro do limite,2026-09-03 23:00
+COM-02,Antena Sul,Comunicação,74,75.29,23.8,2.1,49.98,Normal,3,0xA276,Comunicação dentro do limite,2026-09-04 02:00
+AGR-02,Estufa Experimental,Agricultura,55,75.32,12.0,1.4,16.8,Alerta,2,0xA287,Latência acima do previsto,2026-09-04 05:00
+HAB-01,Sala de Controle Residencial,Habitação,42,36.07,12.0,1.1,13.2,Normal,1,0xA298,Comunicação dentro do limite,2026-09-04 08:00
+AGR-01,Estufa Hidropônica,Agricultura,59,58.9,24.0,1.53,36.72,Normal,2,0xA2A9,Comunicação dentro do limite,2026-09-04 11:00
+COM-01,Antena Norte,Comunicação,65,66.91,12.2,1.91,23.3,Normal,3,0xA2BA,Comunicação dentro do limite,2026-09-04 14:00
+LAB-01,Laboratório de Análises,Laboratório,53,55.89,24.0,0.98,23.52,Normal,2,0xA2CB,Comunicação dentro do limite,2026-09-04 17:00
+MED-01,Posto Médico,Suporte médico,32,29.81,12.0,0.79,9.48,Normal,1,0xA2DC,Comunicação dentro do limite,2026-09-04 20:00
+ARM-01,Banco de Dados,Armazenamento,67,69.23,23.8,2.14,50.93,Normal,4,0xA2ED,Comunicação dentro do limite,2026-09-04 23:00
+COM-02,Antena Sul,Comunicação,73,70.2,24.2,2.17,52.51,Normal,4,0xA2FE,Comunicação dentro do limite,2026-09-05 02:00
+AGR-02,Estufa Experimental,Agricultura,54,60.92,12.0,1.32,15.84,Normal,1,0xA30F,Comunicação dentro do limite,2026-09-05 05:00
+HAB-01,Sala de Controle Residencial,Habitação,38,38.44,12.0,1.23,14.76,Normal,1,0xA320,Comunicação dentro do limite,2026-09-05 08:00
+AGR-01,Estufa Hidropônica,Agricultura,52,51.46,24.0,1.61,38.64,Normal,1,0xA331,Comunicação dentro do limite,2026-09-05 11:00
+COM-01,Antena Norte,Comunicação,67,75.71,12.2,1.85,22.57,Atenção,3,0xA342,Latência acima do previsto,2026-09-05 14:00
+LAB-01,Laboratório de Análises,Laboratório,53,61.52,23.8,1.02,24.28,Atenção,2,0xA353,Latência acima do previsto,2026-09-05 17:00
+MED-01,Posto Médico,Suporte médico,37,35.29,12.0,0.78,9.36,Normal,1,0xA364,Comunicação dentro do limite,2026-09-05 20:00
+ARM-01,Banco de Dados,Armazenamento,58,78.66,24.0,1.87,44.88,Alerta,3,0xA375,Latência acima do previsto,2026-09-05 23:00
+COM-02,Antena Sul,Comunicação,71,75.02,24.0,2.11,50.64,Normal,3,0xA386,Comunicação dentro do limite,2026-09-06 02:00
+AGR-02,Estufa Experimental,Agricultura,54,56.76,12.0,1.51,18.12,Normal,1,0xA397,Comunicação dentro do limite,2026-09-06 05:00
+HAB-01,Sala de Controle Residencial,Habitação,46,53.03,12.0,1.07,12.84,Atenção,2,0xA3A8,Latência acima do previsto,2026-09-06 08:00
+AGR-01,Estufa Hidropônica,Agricultura,54,46.56,24.0,1.47,35.28,Normal,2,0xA3B9,Comunicação dentro do limite,2026-09-06 11:00
+COM-01,Antena Norte,Comunicação,70,65.34,12.0,1.7,20.4,Normal,3,0xA3CA,Comunicação dentro do limite,2026-09-06 14:00
+LAB-01,Laboratório de Análises,Laboratório,51,58.41,24.2,1.08,26.14,Atenção,2,0xA3DB,Latência acima do previsto,2026-09-06 17:00
+MED-01,Posto Médico,Suporte médico,39,66.96,11.8,0.8,9.44,Alerta,1,0xA3EC,Latência acima do previsto,2026-09-06 20:00
+ARM-01,Banco de Dados,Armazenamento,66,66.57,24.0,2.07,49.68,Normal,2,0xA3FD,Comunicação dentro do limite,2026-09-06 23:00
+COM-02,Antena Sul,Comunicação,79,88.59,23.8,2.2,52.36,Alerta,5,0xA40E,Latência acima do previsto,2026-09-07 02:00
+AGR-02,Estufa Experimental,Agricultura,48,57.31,12.0,1.27,15.24,Atenção,1,0xA41F,Latência acima do previsto,2026-09-07 05:00
